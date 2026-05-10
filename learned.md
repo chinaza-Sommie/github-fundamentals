@@ -6,4 +6,4 @@
 ## challenges
 - There are some commands that I quite new such as the revert and rebase; and I have been able to practise with those commands to solidify my understanding
 
-# I Look Forward to learning more things
+# I Look Forward to learning more things.
